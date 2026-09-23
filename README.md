@@ -18,5 +18,5 @@ Building everything in public.
 SQL · Python (pandas) · Tableau · Git · Excel
 
 ## Connect
-- X (Twitter): @samicode_
+- X (Twitter): @samicode
 - Tableau Public: [My Dashboards](https://public.tableau.com/app/profile/babatunde.samuel7530)
