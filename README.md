@@ -26,7 +26,7 @@ I clean messy data, answer real business questions, and present findings through
 - Currently advancing into Data Science and AI/ML
 
 ## Connect
-- LinkedIn: [Babatunde Samuel](https://www.linkedin.com/samicode)
+- LinkedIn: [Babatunde Samuel](https://www.linkedin.com/in/samicode/
 - X: [@samicode](https://x.com/samicode)
 - Medium: [@samicode](https://medium.com/@samicode)
 - Tableau Public: [My Dashboards](https://public.tableau.com/app/profile/babatunde.samuel7530)
